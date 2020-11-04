@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<bounds minlat="35.61404" minlon="-180.0" maxlat="83.83133" maxlon="180.0"/>
+	<node id="3601160610" lat="53.4390199" lon="34.3312203" version="1" timestamp="2015-06-17T20:29:01Z" changeset="0">
+		<tag k="name" v="Памятный камень"/>
+		<tag k="historic" v="memorial"/>
+		<tag k="memorial:type" v="stolperstein"/>
+	</node>
+	<node id="6438663745" lat="45.1248348" lon="33.6123325" version="1" timestamp="2019-04-30T13:18:20Z" changeset="0">
+		<tag k="historic" v="memorial"/>
+		<tag k="memorial" v="stolperstein"/>
+	</node>
+	<node id="7449361990" lat="46.6667174" lon="38.3252582" version="2" timestamp="2020-04-27T09:00:36Z" changeset="0">
+		<tag k="name" v="Ейск 1848"/>
+		<tag k="tourism" v="artwork"/>
+		<tag k="memorial" v="stolperstein"/>
+		<tag k="artwork_type" v="installation"/>
+	</node>
+</osm>
